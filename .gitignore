@@ -6,3 +6,6 @@
 npm-debug.log
 yarn-error.log
 config.bat
+
+# local env files
+.env*.local
